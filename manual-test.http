@@ -4,9 +4,9 @@ Content-Type: application/json
 Accept: application/json
 
 {
-  "username": "eko",
-  "password" : "eko123",
-  "name" : "Eko"
+  "username": "muuri",
+  "password" : "muuri123",
+  "name" : "Muhammad Sadri"
 }
 
 ### Login User
@@ -15,7 +15,7 @@ Content-Type: application/json
 Accept: application/json
 
 {
-  "username": "eko",
+  "username": "muuri",
   "password" : "rahasia"
 }
 
@@ -36,7 +36,7 @@ Content-Type: application/json
 X-API-TOKEN: 23c057e8-64ed-4542-bea9-433e0e7a0c25
 
 {
-  "name" : "Eko Kurniawan"
+  "name" : "Muhammad Sadri"
 }
 
 ### Update User Password
@@ -56,9 +56,9 @@ Content-Type: application/json
 X-API-TOKEN: 25edd380-731c-4d9f-ac9b-b49f01e205bd
 
 {
-  "first_name" : "Budi Kurniawan",
-  "last_name" : "Khannedy",
-  "email": "eko@example.com",
+  "first_name" : "Muhammad",
+  "last_name" : "Farel",
+  "email": "sadri@example.com",
   "phone" : "099123123213"
 }
 
@@ -69,9 +69,9 @@ Content-Type: application/json
 X-API-TOKEN: 25edd380-731c-4d9f-ac9b-b49f01e205bd
 
 {
-  "first_name" : "Eko",
-  "last_name" : "Khannedy",
-  "email": "eko@example.com",
+  "first_name" : "Muhammad",
+  "last_name" : "Sadri",
+  "email": "sadri@example.com",
   "phone" : "099123123213"
 }
 

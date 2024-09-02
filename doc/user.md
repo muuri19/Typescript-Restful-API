@@ -8,9 +8,9 @@ Request Body :
 
 ```json
 {
-  "username" : "khannedy",
+  "username" : "muuri",
   "password" : "rahasia",
-  "name" : "Eko Khannedy"
+  "name" : "Muhammad Sadri"
 }
 ```
 
@@ -19,8 +19,8 @@ Response Body (Success) :
 ```json
 {
   "data" : {
-    "username" : "khannedy",
-    "name" : "Eko Khannedy"
+    "username" : "muuri",
+    "name" : "Muhammad Sadri"
   }
 }
 ```
@@ -41,7 +41,7 @@ Request Body :
 
 ```json
 {
-  "username" : "khannedy",
+  "username" : "muuri",
   "password" : "rahasia"
 }
 ```
@@ -51,8 +51,8 @@ Response Body (Success) :
 ```json
 {
   "data" : {
-    "username" : "khannedy",
-    "name" : "Eko Khannedy",
+    "username" : "muuri",
+    "name" : "Muhammad Sadri",
     "token" : "uuid"
   }
 }
@@ -78,8 +78,8 @@ Response Body (Success) :
 ```json
 {
   "data" : {
-    "username" : "khannedy",
-    "name" : "Eko Khannedy"
+    "username" : "muuri",
+    "name" : "Muhammad Sadri"
   }
 }
 ```
@@ -103,8 +103,8 @@ Request Body :
 
 ```json
 {
-  "password" : "rahasia", // tidak wajib
-  "name" : "Eko Khannedy" // tidak wajib
+  "password" : "rahasia",
+  "name" : "Muhammad Sadri"
 }
 ```
 
@@ -113,8 +113,8 @@ Response Body (Success) :
 ```json
 {
   "data" : {
-    "username" : "khannedy",
-    "name" : "Eko Khannedy"
+    "username" : "muuri",
+    "name" : "Muhammad Sadri"
   }
 }
 ```
